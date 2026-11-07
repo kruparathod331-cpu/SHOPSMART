@@ -1,3 +1,4 @@
+ HEAD
 # 🛍️ ShopSmart AI — Next-Gen AI-Powered E-Commerce Platform
 
 > A commercial-grade, full-stack, AI-powered e-commerce website designed with an editorial, cozy, Pinterest-inspired Gen Z visual aesthetic and engineered with production standards for top-tier software engineering portfolios and internship presentations.
@@ -170,3 +171,6 @@ No personal links are fabricated or hardcoded into UI components.
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
+
+# SHOPSMART
+5aecfbf26a4560768a930e0a91cce80ac53d92a2
